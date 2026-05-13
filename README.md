@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Dr. Cecilia Adaja
 
-🎓 **PhD in Educational Planning** | 📊 **Education Data Analyst**  
+🎓 **PhD in Educational Planning** | 📊 ** Data Analyst Specialist**  
 Helping organisations make better decisions through data-driven insights in education.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Cecilia%20Adaja-blue?logo=linkedin)](https://www.linkedin.com/in/cecilia-adaja-phd-8a4260264/)
@@ -49,9 +49,10 @@ Helping organisations make better decisions through data-driven insights in educ
 ## 🛠 Skills
 - Data Analysis: Excel, SPSS, Python (Pandas, Matplotlib, Seaborn)
 - Data Visualisation: Power BI, Tableau (basic)
-- Databases: SQL (Beginner/Intermediate)
+- Databases: SQL (Intermediate)
 - Research & Policy: Education planning, curriculum development, teacher training impact studies
 - Content & Design: Curriculum design, eBook writing, Canva graphic design
+- Generative AI and prompt engineering 
 - Soft Skills: Leadership, communication, research writing
 
 ## 📬 Let's Connect
